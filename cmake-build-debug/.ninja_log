@@ -1,0 +1,7 @@
+# ninja log v6
+6	215	7635115849610019	CMakeFiles/JuceCalc.dir/main.cpp.obj.ddi	8077a8a12c39d024
+216	249	7635115851997345	CMakeFiles/JuceCalc.dir/CXX.dd	13dc66ca148ddbf7
+216	249	7635115851997345	C:/Users/spymi/CLionProjects/JuceCalc/cmake-build-debug/CMakeFiles/JuceCalc.dir/CXXModules.json	13dc66ca148ddbf7
+216	249	7635115851997345	CMakeFiles/JuceCalc.dir/main.cpp.obj.modmap	13dc66ca148ddbf7
+249	1114	7635115852035323	CMakeFiles/JuceCalc.dir/main.cpp.obj	1dd4b14da90599fd
+1116	1268	7635115860707134	JuceCalc.exe	ea3b54e2ea4c1516
