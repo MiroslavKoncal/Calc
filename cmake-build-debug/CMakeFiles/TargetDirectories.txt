@@ -1,3 +1,3 @@
-C:/Users/spymi/CLionProjects/JuceCalc/cmake-build-debug/CMakeFiles/JuceCalc.dir
-C:/Users/spymi/CLionProjects/JuceCalc/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/spymi/CLionProjects/JuceCalc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/spymi/OneDrive/Документы/GitHub/Calc/cmake-build-debug/CMakeFiles/Calc.dir
+C:/Users/spymi/OneDrive/Документы/GitHub/Calc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spymi/OneDrive/Документы/GitHub/Calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
